@@ -1,0 +1,5 @@
+num = int(input('Digite um número para ver a sua tabuada: '))
+print('-' * 12)
+print(f'{num} x {num * 1} \n{num} x {num * 2} \n{num} x {num * 3} \n{num} x {num * 4} \n{num} x {num * 5}')
+print(f'{num} x {num * 6} \n{num} x {num * 7} \n{num} x {num * 8} \n{num} x {num * 9} \n{num} x {num * 10}')
+print('-' * 12)
